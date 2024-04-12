@@ -1,0 +1,10 @@
+.App-navbar {
+    padding: 30px 40px;
+    text-align: left;
+    background-color: var(--main-background);
+}
+
+.App-logo {
+    height: 50px;
+    pointer-events: none;
+}
