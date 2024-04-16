@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "io-tue"
+  },
+  "targets": {
+    "io-tue": {
+      "hosting": {
+        "io-next": [
+          "io-next"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

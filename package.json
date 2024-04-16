@@ -5,8 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "preview": "npm run build && next start",
+    "deploy": "npm run build && firebase deploy --only hosting:io-next "
   },
   "dependencies": {
     "react": "^18",
