@@ -1,6 +1,6 @@
 "use client"
 import { KeyboardEvent, useEffect, useRef, useState } from "react"
-import Counter from "../../../../react/src/components/counter"
+import Counter from "../../../../react/src/components/counter.gen"
 import Item from "../../../../react/src/components/item"
 import '../../../../react/src/views/todo.css'
 
