@@ -1,5 +1,5 @@
-import Header from "@/components/header"
-import "./globals.css"
+import Header from "../../../react/src/components/header"
+import "../../../react/src/index.css"
 
 export default function RootLayout({
   children,
